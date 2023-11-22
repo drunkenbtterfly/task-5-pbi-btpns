@@ -1,4 +1,4 @@
-# Project-Based Intern: BTPN Syariah Fullstack Developer Project Based Internship Program
+# Project-Based Intern: BTPN Syariah Fullstack Developer
 
 ## Description
 This is a simple Rest-API created using GO-Language as a VIX Full Stack Developer final project collection. Users can login, register, logout, view user list, update user data, and delete user data. In addition, users can view a list of profile photos, add photos, edit profile photos, and delete profile photos.
