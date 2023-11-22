@@ -24,7 +24,7 @@ This is a simple Rest-API created using GO-Language as a VIX Full Stack Develope
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/drunkenbttrfly/task-5-pbi-btpns.git
+git clone https://github.com/drunkenbtterfly/task-5-pbi-btpns.git
 ```
 
 Change into the project directory:
